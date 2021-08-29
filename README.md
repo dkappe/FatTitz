@@ -1,4 +1,9 @@
-# Fat Titz
+# Fat Titz by Stockfish
+
+Fat Titz by Stockfish, brought to you by Tomasz Sobczyk (Sopel), the Stockfish developer responsible for much of the recent NNUE innovation in Stockfish. Here is the answer to the question: what is you made the Stockfish net bodaciously large? Fat Titz, thats what.
+
+## Background
+
 This is a **FREE** UCI-compatibile chess engine. It is a fork of [cfish](https://github.com/syzygy1/Cfish).
 
 Thanks to Norman Schidt and Albert Sliver for inspiration on creating my own fork of Stockfish. Also big thanks to Robert Houdart for great optimization ideas, overall making the engine almost 20% faster!
