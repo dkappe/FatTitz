@@ -1,6 +1,6 @@
 # Fat Titz by Stockfish
 
-Fat Titz by Stockfish, brought to you by Tomasz Sobczyk (Sopel), the Stockfish developer responsible for much of the recent NNUE innovation in Stockfish. Here is the answer to the question: what is you made the Stockfish net bodaciously large? Fat Titz, thats what.
+Fat Titz by Stockfish, brought to you by Tomasz Sobczyk (Sopel), the Stockfish developer responsible for much of the recent NNUE innovation in Stockfish. Here is the answer to the question: what if you made the Stockfish net bodaciously large? Fat Titz, thats what.
 
 ## Background
 
